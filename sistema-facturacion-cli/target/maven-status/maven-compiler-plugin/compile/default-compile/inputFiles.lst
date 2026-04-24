@@ -1,0 +1,12 @@
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/App.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/annotation/Auditable.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/functional/TaxStrategy.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/model/Customer.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/model/Invoice.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/model/InvoiceItem.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/model/InvoiceStatus.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/model/Product.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/model/ProductCategory.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/repository/Repository.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/service/InvoiceService.java
+/workspaces/personal-alvaro/sistema-facturacion-cli/src/main/java/com/sanghelic/facturacion/view/ConsoleView.java

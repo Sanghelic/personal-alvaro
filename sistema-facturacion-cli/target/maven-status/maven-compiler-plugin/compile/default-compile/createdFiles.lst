@@ -1,0 +1,12 @@
+com/sanghelic/facturacion/model/InvoiceStatus.class
+com/sanghelic/facturacion/model/Product.class
+com/sanghelic/facturacion/service/InvoiceService.class
+com/sanghelic/facturacion/annotation/Auditable.class
+com/sanghelic/facturacion/repository/Repository.class
+com/sanghelic/facturacion/view/ConsoleView.class
+com/sanghelic/facturacion/model/InvoiceItem.class
+com/sanghelic/facturacion/model/Invoice.class
+com/sanghelic/facturacion/model/Customer.class
+com/sanghelic/facturacion/model/ProductCategory.class
+com/sanghelic/facturacion/functional/TaxStrategy.class
+com/sanghelic/facturacion/App.class
